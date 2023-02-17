@@ -511,10 +511,10 @@ html, body {
     position: relative;
     text-transform: uppercase ;
     
-    font-size: 95px;
-    margin-left: 200px;
+    font-size: 75px;
+    margin-left: 180px;
     margin-top: -45px;
-    left: 300px;
+    left: 280px;
     bottom: 180px;
 }
 #Event-list{
